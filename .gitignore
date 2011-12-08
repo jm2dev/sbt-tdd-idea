@@ -1,2 +1,5 @@
 target/
 project/target/
+.DS_Store
+.idea/
+.idea_modules/
